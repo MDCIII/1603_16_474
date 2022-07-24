@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:1> ;
     skos:prefLabel "Fort-de-France"@fra-Latn ;
-    wdata:q7200235 "MQ0101" ;
+    wdata:Q7200235 "MQ0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -80,7 +80,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:1> ;
     skos:prefLabel "Lamentin"@fra-Latn ;
-    wdata:q7200235 "MQ0102" ;
+    wdata:Q7200235 "MQ0102" ;
 .
 
 <urn:mdciii:1603:16:474:2:103>
@@ -92,7 +92,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:1> ;
     skos:prefLabel "Saint-Joseph"@fra-Latn ;
-    wdata:q7200235 "MQ0103" ;
+    wdata:Q7200235 "MQ0103" ;
 .
 
 <urn:mdciii:1603:16:474:2:104>
@@ -104,7 +104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:1> ;
     skos:prefLabel "Schœlcher"@fra-Latn ;
-    wdata:q7200235 "MQ0104" ;
+    wdata:Q7200235 "MQ0104" ;
 .
 
 <urn:mdciii:1603:16:474:2:201>
@@ -116,7 +116,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "Anses-d'arlet"@fra-Latn ;
-    wdata:q7200235 "MQ0201" ;
+    wdata:Q7200235 "MQ0201" ;
 .
 
 <urn:mdciii:1603:16:474:2:202>
@@ -128,7 +128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "Diamant"@fra-Latn ;
-    wdata:q7200235 "MQ0202" ;
+    wdata:Q7200235 "MQ0202" ;
 .
 
 <urn:mdciii:1603:16:474:2:203>
@@ -140,7 +140,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "Ducos"@fra-Latn ;
-    wdata:q7200235 "MQ0203" ;
+    wdata:Q7200235 "MQ0203" ;
 .
 
 <urn:mdciii:1603:16:474:2:204>
@@ -152,7 +152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "François"@fra-Latn ;
-    wdata:q7200235 "MQ0204" ;
+    wdata:Q7200235 "MQ0204" ;
 .
 
 <urn:mdciii:1603:16:474:2:205>
@@ -164,7 +164,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "Marin"@fra-Latn ;
-    wdata:q7200235 "MQ0205" ;
+    wdata:Q7200235 "MQ0205" ;
 .
 
 <urn:mdciii:1603:16:474:2:206>
@@ -176,7 +176,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "Rivière-Pilote"@fra-Latn ;
-    wdata:q7200235 "MQ0206" ;
+    wdata:Q7200235 "MQ0206" ;
 .
 
 <urn:mdciii:1603:16:474:2:207>
@@ -188,7 +188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "Rivière-Salée"@fra-Latn ;
-    wdata:q7200235 "MQ0207" ;
+    wdata:Q7200235 "MQ0207" ;
 .
 
 <urn:mdciii:1603:16:474:2:208>
@@ -200,7 +200,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "Sainte-Anne"@fra-Latn ;
-    wdata:q7200235 "MQ0208" ;
+    wdata:Q7200235 "MQ0208" ;
 .
 
 <urn:mdciii:1603:16:474:2:209>
@@ -212,7 +212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "Sainte-Luce"@fra-Latn ;
-    wdata:q7200235 "MQ0209" ;
+    wdata:Q7200235 "MQ0209" ;
 .
 
 <urn:mdciii:1603:16:474:2:210>
@@ -224,7 +224,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "Saint-Esprit"@fra-Latn ;
-    wdata:q7200235 "MQ0210" ;
+    wdata:Q7200235 "MQ0210" ;
 .
 
 <urn:mdciii:1603:16:474:2:211>
@@ -236,7 +236,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "Trois-Îlets"@fra-Latn ;
-    wdata:q7200235 "MQ0211" ;
+    wdata:Q7200235 "MQ0211" ;
 .
 
 <urn:mdciii:1603:16:474:2:212>
@@ -248,7 +248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:2> ;
     skos:prefLabel "Vauclin"@fra-Latn ;
-    wdata:q7200235 "MQ0212" ;
+    wdata:Q7200235 "MQ0212" ;
 .
 
 <urn:mdciii:1603:16:474:2:301>
@@ -260,7 +260,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:3> ;
     skos:prefLabel "Bellefontaine"@fra-Latn ;
-    wdata:q7200235 "MQ0301" ;
+    wdata:Q7200235 "MQ0301" ;
 .
 
 <urn:mdciii:1603:16:474:2:302>
@@ -272,7 +272,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:3> ;
     skos:prefLabel "Carbet"@fra-Latn ;
-    wdata:q7200235 "MQ0302" ;
+    wdata:Q7200235 "MQ0302" ;
 .
 
 <urn:mdciii:1603:16:474:2:303>
@@ -284,7 +284,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:3> ;
     skos:prefLabel "Case-Pilote"@fra-Latn ;
-    wdata:q7200235 "MQ0303" ;
+    wdata:Q7200235 "MQ0303" ;
 .
 
 <urn:mdciii:1603:16:474:2:304>
@@ -296,7 +296,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:3> ;
     skos:prefLabel "Fonds-Saint-Denis"@fra-Latn ;
-    wdata:q7200235 "MQ0304" ;
+    wdata:Q7200235 "MQ0304" ;
 .
 
 <urn:mdciii:1603:16:474:2:305>
@@ -308,7 +308,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:3> ;
     skos:prefLabel "Morne-Rouge"@fra-Latn ;
-    wdata:q7200235 "MQ0305" ;
+    wdata:Q7200235 "MQ0305" ;
 .
 
 <urn:mdciii:1603:16:474:2:306>
@@ -320,7 +320,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:3> ;
     skos:prefLabel "Morne-Vert"@fra-Latn ;
-    wdata:q7200235 "MQ0306" ;
+    wdata:Q7200235 "MQ0306" ;
 .
 
 <urn:mdciii:1603:16:474:2:307>
@@ -332,7 +332,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:3> ;
     skos:prefLabel "Prêcheur"@fra-Latn ;
-    wdata:q7200235 "MQ0307" ;
+    wdata:Q7200235 "MQ0307" ;
 .
 
 <urn:mdciii:1603:16:474:2:308>
@@ -344,7 +344,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:3> ;
     skos:prefLabel "Saint-Pierre"@fra-Latn ;
-    wdata:q7200235 "MQ0308" ;
+    wdata:Q7200235 "MQ0308" ;
 .
 
 <urn:mdciii:1603:16:474:2:401>
@@ -356,7 +356,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:4> ;
     skos:prefLabel "Ajoupa-Bouillon"@fra-Latn ;
-    wdata:q7200235 "MQ0401" ;
+    wdata:Q7200235 "MQ0401" ;
 .
 
 <urn:mdciii:1603:16:474:2:402>
@@ -368,7 +368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:4> ;
     skos:prefLabel "Basse-Pointe"@fra-Latn ;
-    wdata:q7200235 "MQ0402" ;
+    wdata:Q7200235 "MQ0402" ;
 .
 
 <urn:mdciii:1603:16:474:2:403>
@@ -380,7 +380,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:4> ;
     skos:prefLabel "Grand'Rivière"@fra-Latn ;
-    wdata:q7200235 "MQ0403" ;
+    wdata:Q7200235 "MQ0403" ;
 .
 
 <urn:mdciii:1603:16:474:2:404>
@@ -392,7 +392,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:4> ;
     skos:prefLabel "Gros-Morne"@fra-Latn ;
-    wdata:q7200235 "MQ0404" ;
+    wdata:Q7200235 "MQ0404" ;
 .
 
 <urn:mdciii:1603:16:474:2:405>
@@ -404,7 +404,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:4> ;
     skos:prefLabel "Lorrain"@fra-Latn ;
-    wdata:q7200235 "MQ0405" ;
+    wdata:Q7200235 "MQ0405" ;
 .
 
 <urn:mdciii:1603:16:474:2:406>
@@ -416,7 +416,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:4> ;
     skos:prefLabel "Macouba"@fra-Latn ;
-    wdata:q7200235 "MQ0406" ;
+    wdata:Q7200235 "MQ0406" ;
 .
 
 <urn:mdciii:1603:16:474:2:407>
@@ -428,7 +428,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:4> ;
     skos:prefLabel "Marigot"@fra-Latn ;
-    wdata:q7200235 "MQ0407" ;
+    wdata:Q7200235 "MQ0407" ;
 .
 
 <urn:mdciii:1603:16:474:2:408>
@@ -440,7 +440,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:4> ;
     skos:prefLabel "Robert"@fra-Latn ;
-    wdata:q7200235 "MQ0408" ;
+    wdata:Q7200235 "MQ0408" ;
 .
 
 <urn:mdciii:1603:16:474:2:409>
@@ -452,7 +452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:4> ;
     skos:prefLabel "Sainte-Marie"@fra-Latn ;
-    wdata:q7200235 "MQ0409" ;
+    wdata:Q7200235 "MQ0409" ;
 .
 
 <urn:mdciii:1603:16:474:2:410>
@@ -464,6 +464,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:474:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:474:1:4> ;
     skos:prefLabel "Trinité"@fra-Latn ;
-    wdata:q7200235 "MQ0410" ;
+    wdata:Q7200235 "MQ0410" ;
 .
 
